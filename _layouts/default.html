@@ -42,7 +42,7 @@
         {% if site.links %}
         {% for link in site.links %}
           {% if link.label and link.url %}
-            <p class="view"><a style="color:#222;" href="{{ link.url }}" rel="nofollow noopener noreferrer me"{% if link.url contains 'http' %} itemprop="sameAs"{% endif %}><i class="{{ link.icon | default: 'fas fa-link' }} fa-2x fa-fw" aria-hidden="true"></i> <span>{{ link.label }}</span></a></p>
+            <p class="view"><a style="color:#222;" href="{{ link.url }}" target="_blank" rel="nofollow noopener noreferrer me"{% if link.url contains 'http' %} itemprop="sameAs"{% endif %}><i class="{{ link.icon | default: 'fas fa-link' }} fa-2x fa-fw" aria-hidden="true"></i> <span>{{ link.label }}</span></a></p>
           {% endif %}
         {% endfor %}
         {% endif %}

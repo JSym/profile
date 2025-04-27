@@ -35,10 +35,10 @@ github:
   is_project_page: False
 
 links:
-  - label: "Email"
+  - label: "jason@jason-symons.com"
     icon: "fas fa-fw fa-envelope-square"
     url: "mailto:jason@jason-symons.com"
-  - label: "LinkedIn"
+  - label: "jason-symons-monitoring"
     icon: "fa-brands fa-linkedin-in"
     url: "https://www.linkedin.com/in/jason-symons-monitoring/"
   - label: "Resume"
