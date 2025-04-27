@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper { width: auto; }
+section { float: left; padding-left: 400px;}
+h1 a {
+    color: #222 !important;
+ }
+@media print, screen and (max-width: 720px) { section { padding-left: 0; float: none;} }

@@ -18,23 +18,43 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: this is the title
+title: Jason Symons
+subtitle:  Impact Monitoring Data Consultant
 email: jason@jason-symons.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This is my awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description:  # this means to ignore newlines until "baseurl:"
+#  Impact Monitoring Data Consultant
+#  A data analyst with over 15 years experience in the public and NGO sector, I am an expert in helping organisations use data to effectively monitor, evaluate and understand their impact.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jsym.github.io # the base hostname & protocol for your site, e.g. http://example.com
 domain: jsym.github.io
+logo: /assets/img/logo.png
+email: jason@jason-symons.com
+linkedin: jason-symons-monitoring
+github:
+  is_user_page: False
+  is_project_page: False
 
-twitter_username: dontusetwitter
-github_username:  jekyll
+links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:jason@jason-symons.com"
+  - label: "LinkedIn"
+    icon: "fa-brands fa-linkedin-in"
+    url: "https://www.linkedin.com/in/jason-symons-monitoring/"
+  - label: "Resume"
+    icon: "far fa-fw fa-file-pdf"
+    url: "/assets/files/JASON_SYMONS - Resume - February 2025.pdf"
+
+#twitter_username: dontusetwitter
+#github_username:  jekyll
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-minimal
+#remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
+ # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
