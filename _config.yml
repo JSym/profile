@@ -24,7 +24,7 @@ email: jason@jason-symons.com
 description:  # this means to ignore newlines until "baseurl:"
 #  Impact Monitoring Data Consultant
 #  A data analyst with over 15 years experience in the public and NGO sector, I am an expert in helping organisations use data to effectively monitor, evaluate and understand their impact.
-baseurl: "/profile" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://jason-symons.com # the base hostname & protocol for your site, e.g. http://example.com
 domain: jason-symons.com
 logo: /assets/img/logo.png
