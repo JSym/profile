@@ -7,7 +7,7 @@ title: Jason Symons | Impact Monitoring Data Consultant
 ---
 <a id="recent-projects"></a>
 {: style="text-align: justify" }
-### [Recent Projects](#recent-projects) | [About Me](#about) | [Professional History](#history)
+### [Recent Projects](#recent-projects)  |  [About Me](#about)  |  [Professional History](#history)
 
 
 
