@@ -29,6 +29,7 @@ domain: jason-symons.com
 logo: /assets/img/logo.png
 email: jason@jason-symons.com
 linkedin: jason-symons-monitoring
+google_analytics: G-LSYGSLNBLY
 github:
   is_user_page: False
   is_project_page: False
