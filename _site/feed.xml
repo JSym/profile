@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-28T14:38:02+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jason Symons</title><subtitle>Impact &amp; Data Specialist</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-28T21:55:37+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jason Symons</title><subtitle>Impact &amp; Data Specialist</subtitle><entry><title type="html">Projects</title><link href="http://localhost:4000/projects/" rel="alternate" type="text/html" title="Projects" /><published></published><updated></updated><id>http://localhost:4000/projects</id><content type="html" xml:base="http://localhost:4000/projects/"><![CDATA[<p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></p>
+
+<p>You can find the source code for Minima at GitHub:
+<a href="https://github.com/jekyll">jekyll</a> /
+<a href="https://github.com/jekyll/minima">minima</a></p>
+
+<p>You can find the source code for Jekyll at GitHub:
+<a href="https://github.com/jekyll">jekyll</a> /
+<a href="https://github.com/jekyll/jekyll">jekyll</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com]]></summary></entry><entry><title type="html">About</title><link href="http://localhost:4000/about/" rel="alternate" type="text/html" title="About" /><published></published><updated></updated><id>http://localhost:4000/about</id><content type="html" xml:base="http://localhost:4000/about/"><![CDATA[<p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></p>
+
+<p>You can find the source code for Minima at GitHub:
+<a href="https://github.com/jekyll">jekyll</a> /
+<a href="https://github.com/jekyll/minima">minima</a></p>
+
+<p>You can find the source code for Jekyll at GitHub:
+<a href="https://github.com/jekyll">jekyll</a> /
+<a href="https://github.com/jekyll/jekyll">jekyll</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com]]></summary></entry></feed>
